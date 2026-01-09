@@ -1,5 +1,5 @@
   
-<img alt='WALLYJAYTECH-MD' src='https://img.shields.io/badge/WALLYJAYTECH-MD-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
+<img alt='LUCKY_BOT2.1' src='https://img.shields.io/badge/AGENT911-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
 <br>
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"> 
@@ -11,10 +11,10 @@
 
 <p align="center">
   
-<img alt='WALLYJAYTECH-MD' src='https://img.shields.io/badge/WALLYJAYTECH-MD-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a> <img alt='IS BASED ON:' src='https://img.shields.io/badge/IS BASED ON:-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
->- <img alt='WHATSAPP BOT' src='https://img.shields.io/badge/WHATSAPP BOT-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a> <img alt='BY' src='https://img.shields.io/badge/BY-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a> <img alt='AJIBADE ADEWALE JOSEPH' src='https://img.shields.io/badge/AJIBADE ADEWALE JOSEPH-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a> <img alt='LICENSE:APACHE LICENSE 2.O' src='https://img.shields.io/badge/LICENSE:APACHE LICENSE 2.O-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
+<img alt='LUCKY_BOT2.1' src='https://img.shields.io/badge/AGENT911-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a> <img alt='IS BASED ON:' src='https://img.shields.io/badge/IS BASED ON:-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
+>- <img alt='WHATSAPP BOT' src='https://img.shields.io/badge/WHATSAPP BOT-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a> <img alt='BY' src='https://img.shields.io/badge/BY-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a> <img alt='CLASSIC LUCKY' src='https://img.shields.io/badge/CLASSIC LUCKY-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a> <img alt='LICENSE:APACHE LICENSE 2.O' src='https://img.shields.io/badge/LICENSE:APACHE LICENSE 2.O-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
 >
-> <img alt='DONT FORGET TO FOLLOW ME HERE➡️' src='https://img.shields.io/badge/DONT FORGET TO FOLLOW ME HERE➡️-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a> <a href="https://github.com/wallyjaytechh"><img alt='WALLY JAY TECH' src='https://img.shields.io/badge/WALLY JAY TECH-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
+> <img alt='DONT FORGET TO FOLLOW ME HERE➡️' src='https://img.shields.io/badge/DONT FORGET TO FOLLOW ME HERE➡️-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a> <a href="https://github.com/wallyjaytechh"><img alt='WALLY JAY TECH' src='https://img.shields.io/badge/CLASSIC LUCKY-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
 </p>
 
 
@@ -25,9 +25,9 @@
   
 </div>
 <p align="center">
-<a href="https://github.com/wallyjaytechh"><img title="Author" src="https://img.shields.io/badge/CREATOR-WALLY JAY TECH-cyan.svg?style=for-the-badge&logo=github&logoColor=cyan"></a>
+<a href="https://github.com/wallyjaytechh"><img title="Author" src="https://img.shields.io/badge/CREATOR-AGENT911-cyan.svg?style=for-the-badge&logo=github&logoColor=cyan"></a>
 <p align="center">
-  <img alt='WWALLYJAYTECH-MD whatsapp bot uses' src='https://img.shields.io/badge/WALLYJAYTECH-MD whatsapp bot uses-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
+  <img alt='LUCKY_BOT2.1 whatsapp bot uses' src='https://img.shields.io/badge/LUCKY_BOT2.1 whatsapp bot uses-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
   <a href="https://github.com/adiwajshing/Baileys"></a><img alt='Multi-Device Baileys' src='https://img.shields.io/badge/Multi-Device Baileys-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>  <img alt='and so many others coding scripts for better experiences' src='https://img.shields.io/badge/and so many others coding scripts for better experiences-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
 </p>
 <p align="center">
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<img alt='WALLYJAYTECH-MD' src='https://img.shields.io/badge/WALLYJAYTECH-MD-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a> <img alt='Support Deploy On...' src='https://img.shields.io/badge/Support Deploy On...-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
+<img alt='LUCKY_BOT2.1' src='https://img.shields.io/badge/WALLYJAYTECH-MD-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a> <img alt='Support Deploy On...' src='https://img.shields.io/badge/Support Deploy On...-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
 </p>
 
 <p align="center">
@@ -51,19 +51,19 @@
   <a href="https://github.com/codespaces/new"><img src="https://img.shields.io/badge/CodeSpace-cyan?style=for-the-badge&logo=codespace&logoColor=black"></a>
 </p>
 <p align="center">
-<img alt='Need help.... please create an' src='https://img.shields.io/badge/Need help.... please create an-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a> <a href='https://github.com/wallyjaytechh/WALLYJAYTECH-MD/issues' target="_blank"><img alt='issue' src='https://img.shields.io/badge/issue-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=cyan'/></a>
+<img alt='Need help.... please create an' src='https://img.shields.io/badge/Need help.... please create an-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a> <a href='https://github.com/AGENT911147/LUCKYBOT2.1/issues' target="_blank"><img alt='issue' src='https://img.shields.io/badge/issue-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=cyan'/></a>
 
-<img alt='ℹ️ About WALLYJAYTECH-MD' src='https://img.shields.io/badge/ℹ️ About WALLYJAYTECH-MD-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
+<img alt='ℹ️ About WALLYJAYTECH-MD' src='https://img.shields.io/badge/ℹ️ About LUCKY_BOT2.1-200?style=for-the-badge&logo=scan&logoColor=cyan&labelColor=black&color=cyan'/></a>
 
-WALLYJAYTECH-MD is a Cool Multi-Device WhatsApp bot developed by [Wally Jay](https://github.com/wallyjaytechh). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+LUCKY_BOT2.1 is a Cool Multi-Device WhatsApp bot developed by [agent911](https://github.com/agent911147). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 
 ### 📊 **Bot Statistics**D
 <p align="center">
-<a href="https://github.com/wallyjaytechh/followers"><img title="Followers" src="https://img.shields.io/github/followers/wallyjaytechh?color=cyan&style=flat-square"></a>
-<a href="https://github.com/wallyjaytechh/WALLYJAYTECH-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/wallyjaytechh/WALLYJAYTECH-MD?color=cyan&style=flat-square"></a>
-<a href="https://github.com/wallyjaytechh/WALLYJAYTECH-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/wallyjaytechh/WALLYJAYTECH-MD?color=cyan&style=flat-square"></a>
-<a href="https://github.com/wallyjaytechh/WALLYJAYTECH-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/wallyjaytechh/WALLYJAYTECH-MD?label=Watchers&color=cyan&style=flat-square"></a>
+<a href="https://github.com/wallyjaytechh/followers"><img title="Followers" src="https://img.shields.io/github/followers/AGENT911147?color=cyan&style=flat-square"></a>
+<a href="https://github.com/AGENT911147/LUCKY_BOT2.1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AGENT911147/LUCKY_BOT2.1?color=cyan&style=flat-square"></a>
+<a href="https://github.com/AGENT911147/LUCKY_BOT2.1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/agent911147/LUCKY_BOT2.1?color=cyan&style=flat-square"></a>
+<a href="https://github.com/agent911147/LUCKY_BOT2.1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/agent911147/LUCKY_BOT2.1?label=Watchers&color=cyan&style=flat-square"></a>
 <a href="https://github.com/wallyjaytechh/WALLYJAYTECH-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/wallyjaytechh/WALLYJAYTECH-MD?style=flat-square&color=cyan"></a>
 <a href="https://github.com/wallyjaytechh/WALLYJAYTECH-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-cyan.svg"></a>&nbsp;&nbsp;
 </p>
